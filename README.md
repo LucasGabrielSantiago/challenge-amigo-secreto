@@ -25,7 +25,7 @@ O projeto foi desenvolvido utilizando **HTML, CSS e JavaScript**, com foco em fo
 
 ## 📂 Estrutura do Projeto
 
-.
+
 ├── index.html # Estrutura da página
 ├── style.css # Estilos visuais
 ├── app.js # Lógica do sorteio e interatividade
